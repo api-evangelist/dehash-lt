@@ -1,0 +1,32 @@
+aid: dehash-lt
+name: Dehash.lt
+description: "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512"
+url: https://github.com/Dehash-lt/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Security"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Security
+  - Public APIs
+apis:
+  - name: Dehash.lt
+    description: "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512"
+    humanURL: https://github.com/Dehash-lt/api
+    baseURL: https://github.com/Dehash-lt/api
+    tags:
+      - Security
+    properties:
+      - type: Documentation
+        url: https://github.com/Dehash-lt/api
+common:
+  - type: Website
+    url: https://github.com/Dehash-lt/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
