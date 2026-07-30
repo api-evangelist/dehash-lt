@@ -1,4 +1,16 @@
 aid: dehash-lt
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dehash-lt.png
 name: Dehash.lt
 description: "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512"
 url: https://github.com/Dehash-lt/api
